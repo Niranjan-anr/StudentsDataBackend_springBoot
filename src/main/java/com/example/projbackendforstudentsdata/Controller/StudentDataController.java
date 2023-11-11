@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://arjunportal-2evxhp6kr-niranjan-anr.vercel.app/")
 @RestController
 @RequestMapping("Data")
 public class StudentDataController {
